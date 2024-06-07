@@ -1,0 +1,14 @@
+title: "Guidelines for Drafting Manuscripts"
+author: Pawel Kaminski
+copyright: "2024"
+# logo: logo.png
+
+repository:
+  url: https://github.com/kaminski-pawel/guidelines-for-drafting-manuscripts
+html:
+  use_repository_button: true
+  use_issues_button: true
+  use_edit_page_button: true
+
+execute:
+  execute_notebooks: off
