@@ -4,7 +4,7 @@ copyright: "2024"
 # logo: logo.png
 
 repository:
-  url: https://github.com/kaminski-pawel/guidelines-for-drafting-manuscripts
+  url: https://github.com/organization-for-attestation/guidelines-for-drafting-manuscripts
 html:
   use_repository_button: true
   use_issues_button: true
