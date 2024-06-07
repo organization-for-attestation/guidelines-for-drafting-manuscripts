@@ -1,0 +1,9 @@
+format: jb-book
+root: index
+chapters:
+  - file: 01_general
+  - file: 02_introduction_to_docx
+  - file: 03_docx_advanced_elements
+  - file: 04_interactivity_in_docx
+  - file: 05_ipynb_guidelines
+  - file: 06_appendix_manuscript_template
