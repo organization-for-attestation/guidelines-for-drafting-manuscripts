@@ -6,27 +6,24 @@ Please draft your manuscript using a standard word processing application (Micro
 
 To ensure smooth digital processing, it is mandatory that all documents be submitted in a uniform format. Therefore, we require the use of standard styles and file formats in your word processing software.
 
-To help you with compilation of your manuscript, we offer the manuscript template. The template is compatible with Word 2007 or higher and contains basic style formats that fulfill our requirements with respect to structure, typography, and layout. Contact [pawel.kaminski@uni.lu](mailto:pawel.kaminski@uni.lu) or [anton.borlinghaus@degruyter.com](mailto:anton.borlinghaus@degruyter.com) to get the newest manuscript template.
+To help you with compilation of your manuscript, we offer the manuscript template. The template is compatible with Word 2007 or higher and contains basic style formats that fulfill our requirements with respect to structure, typography, and layout. To get the newest manuscript template, please send a request to [tnb.admin@uni.lu](mailto:tnb.admin@uni.lu).
 
 ## Manuscript Submission
 
 The development team is currently working on a user interface, where authors will be able to upload their manuscripts. Until this feature is finished, please follow the following temporary procedure to submit your manuscript:
 
-1. Send an email to [pawel.kaminski@uni.lu](mailto:pawel.kaminski@uni.lu) (cc: anton.borlinghaus@degruyter.com), stating all appropriate data about the book:
+1. Send an email to [tnb.admin@uni.lu](mailto:tnb.admin@uni.lu), stating all appropriate data about the book:
 	1. title of the book,
 	2. list of authors,
 	3. short description (optional),
 	4. slug proposal (unique identifier which will appear in the book URL),
 	5. list of files sorted by order in which they should appear in the book.
-2. You will be provided with an OneDrive space. Please upload your manuscript there as described in the Submission Structure section.
-3. Please collaborate with the editor on the files in the OneDrive space and add any changes to those files. Do not create duplicated files, because then both files will be present in the digital version of your book.
-4. Ask [pawel.kaminski@uni.lu](mailto:pawel.kaminski@uni.lu) to turn on the transformation script. When the script is running, contents of the OneDrive space will be processed and uploaded to the Internet as a digital version of your manuscript. Check if your manuscript is processed correctly.
+2. Add all relevant files of the manuscript as an attachment to that email. This includes `.docx` files and `.ipynb` files, but also the `assets` folder with all the files used in your submission. This includes all the images, videos, datasets and other files. Be sure to follow the guidelines specified in the Submission Structure section.
+3. You will be contacted by someone from the *tnb.admin* team. We ask you to follow their instructions.
 
 :::{important}  
-When working on the files in OneDrive, do not create copies of those files for your changes. E.g. when making changes to `somefile.docx`, don’t create `somefile_mychanges.docx` file. Remember that the platform will render all valid files present in the OneDrive to digital versions accessible via the Internet. When you duplicate a file, you are also creating duplicated digital versions accessible via the Internet.  
+When sending the manuscript, please make sure that your submission complies with the guidelines.  
 :::
-
-Please remember to upload all the files included in your manuscript to the `assets` folder in the OneDrive space you were given. This includes all the images, videos, datasets and other files. Be sure to follow the guidelines specified in the Submission Structure section.
 
 ## File Formats
 
@@ -68,8 +65,6 @@ As an author, you are required to upload a package of a following structure:
 
 .
 
-├── _settings.html
-
 ├── 01_part_of_book.docx
 
 ├── 02_part_of_book.docx
@@ -88,7 +83,6 @@ As an author, you are required to upload a package of a following structure:
 
 Note that every submission must have:
 
-* a `_settings.html` file,
 * parts of the book written in `.docx` or `.ipynb` format and
 * all the objects (images, videos, files with data) used in the manuscript in a separate folder called `assets`.
 
@@ -97,8 +91,6 @@ Note that you have some flexibility when it comes to nesting files in the `asset
 :::{code}
 
 .
-
-├── _settings.html
 
 ├── 01_chapter_1.docx
 
@@ -125,8 +117,6 @@ You can also put files in nested directories in the `assets` folder, as well as 
 :::{code}
 
 .
-
-├── _settings.html
 
 ├── 01_name-of-the-chapter.docx
 
@@ -170,7 +160,7 @@ Please note that it is the author's/editor’s responsibility to obtain usage ri
 
 Neither the publisher nor the developers nor maintainers of the platform will assume any liability for copyright infringement by authors.
 
-To obtain the form, write an email to anton.borlinghaus@degruyter.com.
+To obtain the form, write an email to [tnb.admin@uni.lu](mailto:tnb.admin@uni.lu).
 
 ## Uniform Formatting
 
