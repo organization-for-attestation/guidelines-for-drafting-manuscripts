@@ -20,5 +20,5 @@ Even more content. An example of an image is placed below.
 Figure 1: An example of an image.
 
 
-% :::{dgt-mon-asset} d66f1128-3496-4c71-9956-6bce59bd44a5
+% :::{dgt-mon-asset} a932709c-6223-42e3-bce8-03fe73a8bb28
 
